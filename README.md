@@ -1,7 +1,7 @@
 
 # Portfolio
 
-Below are brief descriptions of personal and paid projects related to web development and web management.
+Below are brief descriptions of personal and paid projects related to web development and CMS management.
 
 ## Clients
 
